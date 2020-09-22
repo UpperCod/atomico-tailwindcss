@@ -2,7 +2,7 @@
 
 I've created [@uppercod/postcss-import](https://github.com/uppercod/postcss-import) for Postcss that allows to point to selectors of an import to compose new CSS, I've tried it with [**Atomico**](https://github.com/atomicojs/atomico) + [Tailwindcss](https://.com/components/buttons) and the result is pleasantly small.
 
-[**Atomico**](https://github.com/atomicojs/atomico) is an amazing library of only 2.9KB for creating webcomponents just using functionsls.
+[**Atomico**](https://github.com/atomicojs/atomico) is an amazing library of only 2.9KB for creating webcomponents just using functions.
 
 ## [Live example 👉](https://uppercod.github.io/atomico-tailwindcss/)
 
