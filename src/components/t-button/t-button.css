@@ -1,0 +1,27 @@
+@import "https://unpkg.com/tailwindcss@1.7.5/dist/tailwind.css" (as: T);
+
+.btn {
+  @extend T"button",
+    T.bg-blue-500,
+    T.text-white,
+    T.font-bold,
+    T.py-2,
+    T.px-4,
+    T.rounded;
+  border: none;
+}
+
+.btn:hover {
+  @extend T.hover\:bg-blue-700:hover;
+}
+
+.rounded-full {
+  @extend T.rounded-full;
+}
+
+.disabled {
+  @extend T.opacity-50, T.cursor-not-allowed;
+}
+.elevated {
+  @extend T.shadow;
+}
