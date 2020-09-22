@@ -4,7 +4,7 @@ This example shows the use of the plugin for postcss [@UpperCod/postcss-import](
 
 [**Atomico**](https://github.com/atomicojs/atomico) is an amazing library of only 2.9KB for creating webcomponents just using functions.
 
-[Example 👉](https://uppercod.github.io/atomico-tailwindcss/)
+## [Live example 👉](https://uppercod.github.io/atomico-tailwindcss/)
 
 ### webcomponent
 
